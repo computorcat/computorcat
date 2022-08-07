@@ -1,4 +1,20 @@
-### Hi there 👋
+#### hello!!
+i am cvrsed / zero
+
+i am currently working on an yakui ghost for SSP
+
+i am not learning anything! 
+
+i do however know python,c++,javascript,(and CSS and HTML if they count)
+
+my pronouns are he/they but i **prefer they/them**
+
+you may talk to me on discord : cvrs#3638
+
+
+![alien 9](https://c.tenor.com/YbTlWwYMn5oAAAAC/alien-nine-alien9.gif)
+
+
 
 <!--
 **computorcat/computorcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
