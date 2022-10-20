@@ -1,11 +1,9 @@
 #### hello!!
 i am cvrsed / zero
 
-i am currently working on an yakui ghost for SSP
-
 i am not learning anything! 
 
-i do however know python,c++,javascript,(and CSS and HTML if they count)
+i do however know python,c++,javascript,lua(and CSS and HTML if they count)
 
 my pronouns are he/they but i **prefer they/them**
 
