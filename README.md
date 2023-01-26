@@ -1,15 +1,4 @@
 #### hello!!
-i am cvrsed / zero
-
-i am not learning anything! 
-
-i do however know python,c++,javascript,lua(and CSS and HTML if they count)
-
-my pronouns are he/they but i **prefer they/them**
-
-you may talk to me on discord : cvrs#3638
-
-
 ![alien 9](https://c.tenor.com/YbTlWwYMn5oAAAAC/alien-nine-alien9.gif)
 
 
