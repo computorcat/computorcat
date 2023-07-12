@@ -1,8 +1,7 @@
 #### hello!!
 html | js | css | c# | python | c++
 
-
-![alien 9](https://c.tenor.com/YbTlWwYMn5oAAAAC/alien-nine-alien9.gif)
+[![GitHub Streak](https://streak-stats.demolab.com?user=computorcat&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
 
 i fear majority of my repos are private sorry sorry oops ah sorry!
 
