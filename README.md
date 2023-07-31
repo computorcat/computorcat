@@ -1,6 +1,7 @@
-#### hello!!
+### hello!!
 html | js | css | c# | python | c++
 
+currently working on: https://boards.00010010.org - a textboard created using the flask framework
 [![GitHub Streak](https://streak-stats.demolab.com?user=computorcat&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
 
 i fear majority of my repos are private sorry sorry oops ah sorry!
