@@ -1,7 +1,14 @@
 ### hello!!
 html | js | css | c# | python | c++
 
-currently working on: ECHSEE - a small match-3 game in godot
+- 2nd year student at Falmouth University, studying Computing for Games BSc(Hons)
+
+- currently working on: MiPS (overdue lsdjam submission)
+
+- you may find out more about me [here!](https://00010010.org)
+
+portfolio incoming..
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=computorcat&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
 
 i fear majority of my repos are private sorry sorry oops ah sorry!
